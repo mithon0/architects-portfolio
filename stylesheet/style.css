@@ -277,3 +277,91 @@ border: 1px solid #FF900E;
 border-radius: 8px;
 text-align: center;
 }
+/* sponsor */
+.sponsor-title{
+    position: absolute;
+width: 327px;
+height: 53px;
+left: 597px;
+top: 4085px;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+color: #131313;
+
+}
+.sponsor-info{
+    position: absolute;
+width: 542px;
+height: 52px;
+left: 489px;
+top: 4162px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #727272
+}
+/* logo */
+.spotify{
+
+
+position: absolute;
+left: 140px;
+top: 4264px;
+
+mix-blend-mode: luminosity;
+}
+.amazon{
+
+
+position: absolute;
+left: 362px;
+top: 4264px;
+
+mix-blend-mode: luminosity;
+
+}
+.google{
+
+
+position: absolute;
+left: 683px;
+top: 4264px;
+
+mix-blend-mode: luminosity;
+
+}
+.telerama{
+
+
+position: absolute;
+left: 1000px;
+top: 4264px;
+
+mix-blend-mode: luminosity;
+
+}
+.figma{
+
+
+position: absolute;
+left: 1298px;
+top: 4264px;
+
+mix-blend-mode: luminosity;
+}
+footer{
+    position: absolute;
+    
+    left: 100px;
+top: 4483px;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+color: #424242;
+padding: 39px 400px 39px 400px;
+border-radius: 8px;
+
+background-color: #FFF4E7;
+}
